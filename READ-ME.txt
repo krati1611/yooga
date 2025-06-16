@@ -1,0 +1,66 @@
+==================================================
+               YOOGA – Official Website
+==================================================
+
+Welcome to the official website of YOOGA — a wellness space dedicated to helping individuals improve their physical, mental, and emotional health through the power of yoga.
+
+This website provides information about our services, classes, instructors, pricing, and how to get in touch with us. It's designed to offer a smooth experience for both new and returning yoga practitioners.
+
+--------------------------------------------------
+📁 WEBSITE STRUCTURE
+--------------------------------------------------
+index.html               – Homepage with introduction and key sections  
+about.html               – About Yooga and our philosophy  
+service.html             – Description of yoga services we offer  
+class.html               – Weekly class schedule and types of yoga  
+price.html               – Monthly pricing plans and packages  
+contact.html             – Contact form and studio details  
+privacy-policy.html      – Privacy policy page outlining data practices  
+css/style.css            – Main styles for layout and design  
+js/main.js               – JavaScript interactions and effects  
+img/                     – All visual content (photos, icons, etc.)  
+LICENSE.txt              – Licensing and usage terms  
+README.txt               – Website documentation (this file)
+
+--------------------------------------------------
+🌿 PURPOSE OF THE WEBSITE
+--------------------------------------------------
+This website is designed to:
+- Introduce Yooga and our core values
+- Provide details about our yoga classes and schedules
+- Allow users to reach out for bookings or inquiries
+- Share testimonials and pricing in a transparent way
+- Ensure privacy through clear policies
+
+--------------------------------------------------
+🛠️ HOW TO UPDATE CONTENT
+--------------------------------------------------
+To update content, use any HTML editor (e.g., Visual Studio Code).
+
+Edit:
+- Text: inside `.html` files
+- Styles: in `css/style.css`
+- Images: replace files inside `img/`
+
+For advanced changes, such as integrating a CMS or booking system, we recommend working with a developer.
+
+--------------------------------------------------
+📍 STUDIO LOCATION
+--------------------------------------------------
+YOOGA Studio  
+245 Harmony Street  
+Los Angeles, CA 90001  
+USA
+
+📧 info@yooga.com  
+📞 +1 (213) 555-9876
+
+--------------------------------------------------
+📌 IMPORTANT NOTES
+--------------------------------------------------
+- All content and media are owned by YOOGA.
+- Do not reproduce or redistribute without permission.
+- For collaboration or press inquiries, contact info@yooga.com
+
+--------------------------------------------------
+© 2025 YOOGA. All rights reserved.

@@ -1,0 +1,226 @@
+2025-06-17 00:24:24,517 - ip_logger - INFO - Initializing database
+2025-06-17 00:24:24,518 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 00:24:24,519 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 00:24:24,519 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 00:24:24,520 - ip_logger - INFO - Starting server
+2025-06-17 00:24:36,596 - ip_logger - INFO - Initializing database
+2025-06-17 00:24:36,597 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 00:24:36,598 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 00:24:36,598 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 00:24:36,599 - ip_logger - INFO - Starting server
+2025-06-17 00:24:58,971 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:24:58,971 - ip_logger - INFO - [2025-06-17 00:24:58] Received request from IP: 127.0.0.1
+2025-06-17 00:24:58,971 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:24:58,971 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:25:44,594 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:25:44,594 - ip_logger - INFO - [2025-06-17 00:25:44] Received request from IP: 127.0.0.1
+2025-06-17 00:25:44,594 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:25:44,595 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:25:47,681 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:25:47,682 - ip_logger - INFO - [2025-06-17 00:25:47] Received request from IP: 127.0.0.1
+2025-06-17 00:25:47,683 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:25:47,683 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:26:55,189 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:26:55,190 - ip_logger - INFO - [2025-06-17 00:26:55] Received request from IP: 127.0.0.1
+2025-06-17 00:26:55,191 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:26:55,191 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:29:03,516 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:29:03,516 - ip_logger - INFO - [2025-06-17 00:29:03] Received request from IP: 127.0.0.1
+2025-06-17 00:29:03,517 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:29:03,517 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:29:04,782 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:29:04,783 - ip_logger - INFO - [2025-06-17 00:29:04] Received request from IP: 127.0.0.1
+2025-06-17 00:29:04,783 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:29:04,783 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:29:05,674 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:29:05,675 - ip_logger - INFO - [2025-06-17 00:29:05] Received request from IP: 127.0.0.1
+2025-06-17 00:29:05,675 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:29:05,675 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:30:25,384 - ip_logger - INFO - Initializing database
+2025-06-17 00:30:25,386 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 00:30:25,386 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 00:30:25,386 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 00:30:33,657 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:30:33,657 - ip_logger - INFO - [2025-06-17 00:30:33] Received request from IP: 127.0.0.1
+2025-06-17 00:30:33,657 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:30:33,657 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 00:51:17,146 - ip_logger - INFO - New request received #########################################################
+2025-06-17 00:51:17,146 - ip_logger - INFO - [2025-06-17 00:51:17] Received request from IP: 127.0.0.1
+2025-06-17 00:51:17,146 - ip_logger - INFO - Query parameters: {}
+2025-06-17 00:51:17,146 - ip_logger - INFO - Request is not from Google Ads, showing index.html
+2025-06-17 01:01:26,584 - ip_logger - INFO - Initializing database
+2025-06-17 01:01:26,585 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 01:01:26,585 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 01:01:26,585 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 01:01:33,327 - ip_logger - INFO - Initializing database
+2025-06-17 01:01:33,328 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 01:01:33,328 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 01:01:33,328 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 01:02:01,073 - ip_logger - INFO - Initializing database
+2025-06-17 01:02:01,074 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 01:02:01,074 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 01:02:01,074 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 01:02:08,004 - ip_logger - INFO - New request received #########################################################
+2025-06-17 01:02:08,004 - ip_logger - INFO - [2025-06-17 01:02:08] Received request from IP: 127.0.0.1
+2025-06-17 01:02:08,005 - ip_logger - INFO - Query parameters: {}
+2025-06-17 01:02:08,005 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 01:02:54,287 - ip_logger - INFO - New request received #########################################################
+2025-06-17 01:02:54,287 - ip_logger - INFO - [2025-06-17 01:02:54] Received request from IP: 127.0.0.1
+2025-06-17 01:02:54,287 - ip_logger - INFO - Query parameters: {}
+2025-06-17 01:02:54,287 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 01:56:41,214 - ip_logger - INFO - Initializing database
+2025-06-17 01:56:41,215 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 01:56:41,215 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 01:56:41,215 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 01:56:44,443 - ip_logger - INFO - New request received #########################################################
+2025-06-17 01:56:44,443 - ip_logger - INFO - [2025-06-17 01:56:44] Received request from IP: 127.0.0.1
+2025-06-17 01:56:44,443 - ip_logger - INFO - Query parameters: {}
+2025-06-17 01:56:44,443 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 01:59:32,539 - ip_logger - INFO - New request received #########################################################
+2025-06-17 01:59:32,539 - ip_logger - INFO - [2025-06-17 01:59:32] Received request from IP: 127.0.0.1
+2025-06-17 01:59:32,540 - ip_logger - INFO - Query parameters: {}
+2025-06-17 01:59:32,540 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 01:59:34,503 - ip_logger - INFO - New request received #########################################################
+2025-06-17 01:59:34,503 - ip_logger - INFO - [2025-06-17 01:59:34] Received request from IP: 127.0.0.1
+2025-06-17 01:59:34,503 - ip_logger - INFO - Query parameters: {}
+2025-06-17 01:59:34,503 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 01:59:35,462 - ip_logger - INFO - New request received #########################################################
+2025-06-17 01:59:35,462 - ip_logger - INFO - [2025-06-17 01:59:35] Received request from IP: 127.0.0.1
+2025-06-17 01:59:35,462 - ip_logger - INFO - Query parameters: {}
+2025-06-17 01:59:35,462 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 01:59:38,500 - ip_logger - INFO - New request received #########################################################
+2025-06-17 01:59:38,500 - ip_logger - INFO - [2025-06-17 01:59:38] Received request from IP: 127.0.0.1
+2025-06-17 01:59:38,500 - ip_logger - INFO - Query parameters: {}
+2025-06-17 01:59:38,500 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:02:26,366 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:02:26,366 - ip_logger - INFO - [2025-06-17 02:02:26] Received request from IP: 127.0.0.1
+2025-06-17 02:02:26,366 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:02:26,366 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:02:33,321 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:02:33,321 - ip_logger - INFO - [2025-06-17 02:02:33] Received request from IP: 127.0.0.1
+2025-06-17 02:02:33,321 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:02:33,321 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:02:34,567 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:02:34,567 - ip_logger - INFO - [2025-06-17 02:02:34] Received request from IP: 127.0.0.1
+2025-06-17 02:02:34,567 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:02:34,567 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:02:44,299 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:02:44,300 - ip_logger - INFO - [2025-06-17 02:02:44] Received request from IP: 127.0.0.1
+2025-06-17 02:02:44,300 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:02:44,300 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:03:29,169 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:03:29,169 - ip_logger - INFO - [2025-06-17 02:03:29] Received request from IP: 127.0.0.1
+2025-06-17 02:03:29,169 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:03:29,169 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:03:31,358 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:03:31,359 - ip_logger - INFO - [2025-06-17 02:03:31] Received request from IP: 127.0.0.1
+2025-06-17 02:03:31,359 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:03:31,359 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:03:32,380 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:03:32,380 - ip_logger - INFO - [2025-06-17 02:03:32] Received request from IP: 127.0.0.1
+2025-06-17 02:03:32,380 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:03:32,380 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:03:33,878 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:03:33,878 - ip_logger - INFO - [2025-06-17 02:03:33] Received request from IP: 127.0.0.1
+2025-06-17 02:03:33,878 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:03:33,878 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:03:34,735 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:03:34,736 - ip_logger - INFO - [2025-06-17 02:03:34] Received request from IP: 127.0.0.1
+2025-06-17 02:03:34,737 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:03:34,737 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:03:41,595 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:03:41,595 - ip_logger - INFO - [2025-06-17 02:03:41] Received request from IP: 127.0.0.1
+2025-06-17 02:03:41,595 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:03:41,595 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:03:42,842 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:03:42,843 - ip_logger - INFO - [2025-06-17 02:03:42] Received request from IP: 127.0.0.1
+2025-06-17 02:03:42,843 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:03:42,843 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:05:02,501 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:05:02,501 - ip_logger - INFO - [2025-06-17 02:05:02] Received request from IP: 127.0.0.1
+2025-06-17 02:05:02,502 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:05:02,502 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:05:26,603 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:05:26,603 - ip_logger - INFO - [2025-06-17 02:05:26] Received request from IP: 127.0.0.1
+2025-06-17 02:05:26,603 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:05:26,603 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:05:29,007 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:05:29,007 - ip_logger - INFO - [2025-06-17 02:05:29] Received request from IP: 127.0.0.1
+2025-06-17 02:05:29,007 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:05:29,007 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:05:30,032 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:05:30,032 - ip_logger - INFO - [2025-06-17 02:05:30] Received request from IP: 127.0.0.1
+2025-06-17 02:05:30,032 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:05:30,033 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:05:30,541 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:05:30,541 - ip_logger - INFO - [2025-06-17 02:05:30] Received request from IP: 127.0.0.1
+2025-06-17 02:05:30,541 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:05:30,541 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:06:58,038 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:06:58,038 - ip_logger - INFO - [2025-06-17 02:06:58] Received request from IP: 127.0.0.1
+2025-06-17 02:06:58,038 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:06:58,038 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:07:20,201 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:07:20,201 - ip_logger - INFO - [2025-06-17 02:07:20] Received request from IP: 127.0.0.1
+2025-06-17 02:07:20,201 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:07:20,201 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:07:37,588 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:07:37,588 - ip_logger - INFO - [2025-06-17 02:07:37] Received request from IP: 127.0.0.1
+2025-06-17 02:07:37,588 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:07:37,588 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:10:38,123 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:10:38,124 - ip_logger - INFO - [2025-06-17 02:10:38] Received request from IP: 127.0.0.1
+2025-06-17 02:10:38,124 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:10:38,124 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:11:04,432 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:11:04,432 - ip_logger - INFO - [2025-06-17 02:11:04] Received request from IP: 127.0.0.1
+2025-06-17 02:11:04,432 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:11:04,432 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:11:37,609 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:11:37,609 - ip_logger - INFO - [2025-06-17 02:11:37] Received request from IP: 127.0.0.1
+2025-06-17 02:11:37,609 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:11:37,609 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:14:26,225 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:14:26,225 - ip_logger - INFO - [2025-06-17 02:14:26] Received request from IP: 127.0.0.1
+2025-06-17 02:14:26,225 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:14:26,225 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:15:37,989 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:15:37,989 - ip_logger - INFO - [2025-06-17 02:15:37] Received request from IP: 127.0.0.1
+2025-06-17 02:15:37,989 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:15:37,989 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:23:43,216 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:23:43,216 - ip_logger - INFO - [2025-06-17 02:23:43] Received request from IP: 127.0.0.1
+2025-06-17 02:23:43,216 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:23:43,216 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:24:33,263 - ip_logger - INFO - Initializing database
+2025-06-17 02:24:33,264 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 02:24:33,264 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 02:24:33,264 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 02:24:39,173 - ip_logger - INFO - Initializing database
+2025-06-17 02:24:39,174 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 02:24:39,174 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 02:24:39,174 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 02:24:41,546 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:24:41,546 - ip_logger - INFO - [2025-06-17 02:24:41] Received request from IP: 127.0.0.1
+2025-06-17 02:24:41,546 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:24:41,546 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:28:44,110 - ip_logger - INFO - Initializing database
+2025-06-17 02:28:44,111 - ip_logger - INFO - Attempting to load known IPs from file
+2025-06-17 02:28:44,111 - ip_logger - INFO - Loading IPs from backup/ip_list.json
+2025-06-17 02:28:44,111 - ip_logger - INFO - Loaded 1604 known IPs from backup/ip_list.json
+2025-06-17 02:28:51,786 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:28:51,786 - ip_logger - INFO - [2025-06-17 02:28:51] Received request from IP: 127.0.0.1
+2025-06-17 02:28:51,786 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:28:51,786 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:40:43,803 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:40:43,803 - ip_logger - INFO - [2025-06-17 02:40:43] Received request from IP: 127.0.0.1
+2025-06-17 02:40:43,803 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:40:43,803 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:41:08,230 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:41:08,230 - ip_logger - INFO - [2025-06-17 02:41:08] Received request from IP: 127.0.0.1
+2025-06-17 02:41:08,230 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:41:08,230 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
+2025-06-17 02:43:20,305 - ip_logger - INFO - New request received #########################################################
+2025-06-17 02:43:20,305 - ip_logger - INFO - [2025-06-17 02:43:20] Received request from IP: 127.0.0.1
+2025-06-17 02:43:20,305 - ip_logger - INFO - Query parameters: {}
+2025-06-17 02:43:20,305 - ip_logger - INFO - Request is not from Google Ads, showing asana.html
