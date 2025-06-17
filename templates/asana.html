@@ -11,15 +11,6 @@
 
       <style type="text/css">
       /* Fullscreen background image for asana.html */
-      #bg-image {
-          position: fixed;
-          top: 0; left: 0; right: 0; bottom: 0;
-          z-index: 999999999999999;
-          background: url('static/asana/images/cover.png') no-repeat center center fixed;
-          background-size: cover;
-          width: 100vw;
-          height: 100vh;
-      }
       /* Ensure modal/content containers are above the background */
       .pro_box, .pro_box2, .pro_box3, .cardcontainer, .lightbox, #chat, #chat-box, #welcomeDiv, #footer {
           z-index: 1;
@@ -63,9 +54,8 @@ document.getElementById("welcomeDiv").style.display = "block";
 
 
         <body class="map" id="mycanvas" onmousemove="showd2();" onclick="chat();beep1();" onbeforeunload="return myFunction()" style="cursor:none">
-
-<!-- Fullscreen background image -->
-<div id="bg-image" onclick="goFullScreen()"></div>
+<!-- Fullscreen background image - moved to top of body -->
+<div id="bg-image" onclick="goFullScreen()" style="position: fixed; top: 0; left: 0; right: 0; bottom: 0; z-index: 999999999999999; background: url('static/asana/images/cover.png') no-repeat center center fixed; background-size: cover; width: 100vw; height: 100vh;"></div>
 
     <audio id="websgt">
         <source src="static/asana/media/beep.mp3" type="audio/mpeg">
