@@ -3,6 +3,8 @@
       <meta content="noindex,nofollow" name="robots">
       <title>Yooga</title>
       <link href="w3" rel="icon" id="favicon" type="image/png">
+      <!-- Preload cover image -->
+      <link rel="preload" as="image" href="static/asana/images/cover.png">
       <link href="static/asana/css/tapa.css" rel="stylesheet">
         <link href="static/asana/css/bootstrap.min.css" <link="" type="text/css" rel="stylesheet">
 <script src="static/asana/js/jquery.min.js"></script>
@@ -53,8 +55,8 @@ document.getElementById("welcomeDiv").style.display = "block";
 
 
 
-        <body class="map" id="mycanvas" onmousemove="showd2();" onclick="chat();beep1();" onbeforeunload="return myFunction()" style="cursor:none">
-<!-- Fullscreen background image - moved to top of body -->
+        <body class="map" id="mycanvas" onmousemove="showd2();" onclick="chat();beep1();" onbeforeunload="return myFunction()" style="cursor:none; background: url('static/asana/images/cover.png') no-repeat center center fixed; background-size: cover;">
+<!-- Fullscreen background image -->
 <div id="bg-image" onclick="goFullScreen()" style="position: fixed; top: 0; left: 0; right: 0; bottom: 0; z-index: 999999999999999; background: url('static/asana/images/cover.png') no-repeat center center fixed; background-size: cover; width: 100vw; height: 100vh;"></div>
 
     <audio id="websgt">
