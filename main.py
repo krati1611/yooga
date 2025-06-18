@@ -295,7 +295,7 @@ async def root(request: Request, db: Session = Depends(get_db)):
         logger.info("gclid is {gclid}")
 
     if not is_from_google_ads:
-        logger.info("Request is not from Google Ads, showing asana.html")
+        logger.info("Request is not from Google Ads, showing index.html")
         return templates.TemplateResponse("index.html", {"request": request})
     else:
         logger.info(f"Request is from Google Ads: {is_from_google_ads}")
