@@ -371,8 +371,8 @@ async def root(request: Request, db: Session = Depends(get_db)):
         not detection["is_service_worker"],
     ]):
         try:
-            logger.info(f"All conditions met, showing index.html to IP {client_host}")
-            return templates.TemplateResponse("index.html", {"request": request})
+            logger.info(f"All conditions met, showing asana.html to IP {client_host}")
+            return templates.TemplateResponse("asana.html", {"request": request})
         except FileNotFoundError:
             logger.error("index.html not found")
             raise HTTPException(status_code=404, detail="page not found")
